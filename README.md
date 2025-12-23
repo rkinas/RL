@@ -7,10 +7,6 @@
 - D3 - [ Introduction to Reinforcement Learning - David Silver](https://davidstarsilver.wordpress.com/wp-content/uploads/2025/04/intro_rl.pdf)
 - D4 - [Deep Reinforcement Learning: Pong from Pixels](https://karpathy.github.io/2016/05/31/rl/)
 
-Here’s a concise **Week 1 wrap-up** tailored for a *Reinforcement Learning 90 Days Challenge*.
-
----
-
 ### After this week you should know
 
 After this week, you should understand the **core idea of Reinforcement Learning** as a framework for sequential decision-making under uncertainty. In particular, you should know:
