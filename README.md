@@ -1,4 +1,4 @@
-# RL - 90 days 
+# Reinforcement Learning 90 Days Challenge 
 
 
 ## Week #1 - Introduction to Reinforcement Learning
