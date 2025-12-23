@@ -9,7 +9,6 @@
 
 ### After this week you should know
 
-After this week, you should understand the **core idea of Reinforcement Learning** as a framework for sequential decision-making under uncertainty. In particular, you should know:
 * What Reinforcement Learning is and how it differs from supervised and unsupervised learning
 * The standard **RL terminology**: agent, environment, state, action, reward, policy, return, episode
 * How RL problems are formalized as **Markov Decision Processes (MDPs)**
