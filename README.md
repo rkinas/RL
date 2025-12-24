@@ -27,6 +27,8 @@ By the end of the 90 days, the goal is to be comfortable reasoning about RL prob
 - D2 - [DeepMind x UCL RL Lecture Series - Introduction to Reinforcement Learning [1/13]](https://www.youtube.com/watch?v=TCCjZe0y4Qc)
 - D3 - [Introduction to Reinforcement Learning - David Silver](https://davidstarsilver.wordpress.com/wp-content/uploads/2025/04/intro_rl.pdf) snd video [RL Course by David Silver - Lecture 1: Introduction to Reinforcement Learning](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
 - D4 - [Deep Reinforcement Learning: Pong from Pixels](https://karpathy.github.io/2016/05/31/rl/)
+- D5 - 
+- D6 - 
 - D7 - Rest, answer question, repeat topics we discussed during the week.
 
 ### After this week you should know
