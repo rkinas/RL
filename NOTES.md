@@ -18,3 +18,11 @@ Algo implementations: https://github.com/datawhalechina/easy-rl?tab=readme-ov-fi
 
 Minecraf: https://github.com/tsmatz/minecraft-rl-example
 
+alphazero games: https://github.com/suragnair/alpha-zero-general/tree/master
+
+Course in Deep Reinforcement Learning https://github.com/andri27-ts/Reinforcement-Learning
+
+Udacity: https://github.com/udacity/deep-reinforcement-learning
+
+SARSA, SARSAMAX, Expected Sarsa
+
