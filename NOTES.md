@@ -26,3 +26,5 @@ Udacity: https://github.com/udacity/deep-reinforcement-learning
 
 SARSA, SARSAMAX, Expected Sarsa
 
+Comprehensive Survey of Reinforcement Learning: From Algorithms to Practical Challenges -> https://arxiv.org/pdf/2411.18892
+
