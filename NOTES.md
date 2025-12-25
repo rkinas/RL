@@ -14,3 +14,7 @@ Learning Reinforcement Learning- > https://github.com/dennybritz/reinforcement-l
 
 ytbe channel ->  https://www.youtube.com/@johnnycode
 
+Algo implementations: https://github.com/datawhalechina/easy-rl?tab=readme-ov-file
+
+Minecraf: https://github.com/tsmatz/minecraft-rl-example
+
