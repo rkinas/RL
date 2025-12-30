@@ -79,4 +79,7 @@ Use these questions to verify whether you really understand the material:
 
 ## Week #6
 
+List of RL algorithms
+
+
 
