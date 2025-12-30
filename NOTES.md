@@ -22,3 +22,5 @@
 
 - Implementation: https://github.com/ShangtongZhang/DeepRL
 
+- CleanRL: https://github.com/vwxyzjn/cleanrl and Turbo-implementations of CleanRL scripts (Pytorch) https://github.com/meta-pytorch/LeanRL Clean Offline Reinforcement Learning -> https://github.com/corl-team/CORL 
+
